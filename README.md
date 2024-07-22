@@ -2,8 +2,11 @@ This is a [Next.js](https://nextjs.org/) project
 
 ## Design and Implementation
 Framework: Use Next.js and TypeScript.
+
 Styling: Use Tailwind CSS and ShadCn UI components.
+
 Hosting: Deploy the landing page on Vercel or Cloudflare Pages.
+
 
 ## Getting Started
 
@@ -18,7 +21,11 @@ pnpm dev
 # or
 bun dev
 ```
+
 ## Download the packages 
+Install the necessary packages mentioned in the package.json
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
